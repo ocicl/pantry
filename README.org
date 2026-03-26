@@ -1,0 +1,10 @@
+* pantry
+
+Common Lisp client for the Pantry JSON storage service.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/dotemacs/pantry.git    |
+| commit  | 0000000                                        |
+| systems | pantry                                         |
+|---------+------------------------------------------------|
+
